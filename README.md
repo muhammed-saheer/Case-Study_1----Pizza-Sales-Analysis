@@ -37,7 +37,7 @@ This project analyzes a year's worth of pizza sales data from a fictional pizza 
 - Highest daily customer count reached **820+**.
 - Weekends show slightly higher activity, indicating strong lunchtime demand.
 
-![Customers & Peak Hours](./https://github.com/muhammed-saheer/Case-Study_1----Pizza-Sales-Analysis/blob/main/Dashboard%20images/Peak%20Hour%20%20%20Customers%20Per%20Day.png)
+![Customers & Peak Hours](https://github.com/muhammed-saheer/Case-Study_1----Pizza-Sales-Analysis/blob/main/Dashboard%20images/Peak%20Hour%20%20%20Customers%20Per%20Day.png)
 
 ---
 
