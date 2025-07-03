@@ -64,6 +64,8 @@ This project analyzes a year's worth of pizza sales data from a fictional pizza 
   - The Pepperoni Pizza
   - The Thai Chicken Pizza
  
+    ![Pizzas & Bestsellers](https://github.com/muhammed-saheer/Case-Study_1----Pizza-Sales-Analysis/blob/main/Dashboard%20images/PizzasPerOrder%20%20Bestselling%20pizzas.png)
+ 
   ---
  
 
@@ -85,6 +87,7 @@ Total Revenue = SUM(order_details[quantity] * RELATED(pizzas[price]))
 - **July** was the best-performing month; **October** was the lowest.
 - Revenue fluctuates with minor seasonality—could indicate **summer/festival** spikes.
 
+  ![Revenue](https://github.com/muhammed-saheer/Case-Study_1----Pizza-Sales-Analysis/blob/main/Dashboard%20images/Revenue%20%20Seasonality.png)
 ---
 
 ### 4. Are there any pizzas we should take off the menu, or promotions we could leverage?
@@ -112,6 +115,8 @@ Total Revenue = SUM(order_details[quantity] * RELATED(pizzas[price]))
 - Consider discounts for:
   - **Weekdays with lower traffic**
 -Off-season months
+
+![Promotions](https://github.com/muhammed-saheer/Case-Study_1----Pizza-Sales-Analysis/blob/main/Dashboard%20images/take%20off%20%20promotion.png))
 
 ---
 
